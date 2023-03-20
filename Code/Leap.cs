@@ -2,7 +2,7 @@
 
 // leap year
 
-namespace tsd2023_linq2
+namespace Code
 {
     public class Leap
     {

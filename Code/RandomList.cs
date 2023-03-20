@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tsd2023_linq2
+namespace Code
 {
     public class RandomList<T>
     {
