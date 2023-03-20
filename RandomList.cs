@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tsd2023_linq2
 {
-    internal class RandomList<T>
+    public class RandomList<T>
     {
         private List<T> list;
         private Random rnd = new Random();
